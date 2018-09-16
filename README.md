@@ -11,7 +11,7 @@ Enter in CMD
 
 javac *.java
 
-jar -cvfm AStar.jar manifest.txt AStar.class AStar.txt
+jar -cvfm AStar.jar manifest.txt AStar\*.class AStar\*.txt
 
 java -jar "AStar.jar"
 
