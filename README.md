@@ -17,7 +17,7 @@ java -jar "AStar.jar"
 
 Prompt for Folder
 
-C:\Users\Chris\Desktop\AStar\AStar\AStar\
+C:\Users\Chris\Desktop\AStar\AStar\
 
 program will finish running
 
