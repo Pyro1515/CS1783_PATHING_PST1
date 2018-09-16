@@ -5,7 +5,7 @@ To Run AStar
 
 open CMD or Terminal
 
-go to //.. \AStar_X.0\AStar\src\AStar
+go to //.. \AStar\
 
 Enter in CMD
 
